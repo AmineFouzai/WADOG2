@@ -1,8 +1,8 @@
 # WADOG
 Keystroke logging Tool (WADOG)
 <p>A Powerfull keylogger Tool for generating exploitable and executable  undetectable threat payloads on windows ...</p>
-<p>#PS: threat can be detected only if the payload is based hidden console u can change the execution in code 
- remove # from --noconsole .</p>
+<p>#PS: threat can be detected only if the payload is based hidden console u can change the execution in code </p>
+ <p>remove # from --noconsole .</p>
 <hr>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture2.PNG">
 <br>
