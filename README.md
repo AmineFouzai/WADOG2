@@ -1,6 +1,7 @@
 # WADOG
 Keystroke logging Tool (WADOG)
-<p>A Powerfull keylogger Tool for generating exploitable payloads on windows using pure python code plus third party librarys...</p>
+<p>A Powerfull keylogger Tool for generating exploitable and executable  undetectable threat payloads on windows ...</p>
+<p>#PS: threat can be detected only if the payload is based hidden console u can change the execution in code remove # from --noconsole</p>
 <hr>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture2.PNG">
 <br>
@@ -16,7 +17,7 @@ Keystroke logging Tool (WADOG)
 <h2>#command:=>python WADOG.py </h2>
 <hr>
 <h1>#WARNING</h1>
-<p  style="color:red" >THIS TOOL IS MADE ONLY FOR STUDY PURPOSE ANY ABUSE OR MISUSE OS THE TOLL l IM NOT A PART OF IT !!!</p>
+<p  style="color:red" >THIS TOOL IS MADE ONLY FOR STUDY PURPOSE ANY ABUSE OR MISUSE OF THE TOOL l IM NOT A PART OF IT !!!</p>
 <br>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture.PNG">
 <hr>
