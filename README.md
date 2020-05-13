@@ -1,16 +1,15 @@
 # WADOG
 Keystroke logging Tool (WADOG)
-<p>A Powerfull keylogger Tool for generating exploitable payloads on windows ...</p>
-<br>
+<p>A Powerfull keylogger Tool for generating exploitable payloads on windows using pure python code plus third party librarys...</p>
 <hr>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture2.PNG">
 <br>
 <h2>#SETUP:</h2>
 <table>
  <tr>
-  <td>pip install pipenv</td> 
-  <td>pipenv --python 3.6</td>
-  <td>pipenv install - r requirements.txt</td>
+  <td> 1) pip install pipenv</td> 
+  <td> 2) pipenv --python 3.6</td>
+  <td> 3) pipenv install - r requirements.txt</td>
  </tr>
  </table>
 <hr>
