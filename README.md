@@ -16,7 +16,8 @@ Keystroke logging Tool (WADOG)
 <hr>
 <h2>#command:=>python WADOG.py </h2>
 <hr>
-<p>this tool is made only for study purpose any abuse or misuse of the tool <span style="color:red">IM NOT A PART OF IT</span> </p>
+<h1>#WARNING</h1>
+<p  style="color:red" >THIS TOOL IS MADE ONLY FOR STUDY PURPOSE ANY ABUSE OR MISUSE OS THE TOLL l IM NOT A PART OF IT !!!</p>
 <br>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture.PNG">
 <hr>
