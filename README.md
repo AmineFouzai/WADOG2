@@ -8,3 +8,4 @@ Keystroke logging Tool (WADOG)
 <h2>#command:=>[ python WADOG.py ]</h2>
 <hr>
 <br>
+<img srec="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture.PNG">
