@@ -25,7 +25,7 @@ Keystroke logging Tool (WADOG)
  </tr>
  </table>
 <hr>
-<h2>#command:=>python WADOG.py </h2>
+<h2>#command:=>Python WADOG.py </h2>
 <hr>
 <h1>#WARNING</h1>
 <p  style="color:red" >THIS TOOL IS MADE ONLY FOR STUDY PURPOSE ANY ABUSE OR MISUSE OF THE TOOL IM NOT A PART OF IT !!!</p>
