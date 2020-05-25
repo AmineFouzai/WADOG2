@@ -9,9 +9,19 @@ Keystroke logging Tool (WADOG)
 <h2>#SETUP:</h2>
 <table>
  <tr>
-  <td> 1) pip install pipenv</td> 
-  <td> 2) pipenv --python 3.6</td>
-  <td> 3) pipenv install - r requirements.txt</td>
+  <td> 1) git clone https://github.com/MedAmineFouzai/WADOG </td> 
+ </tr>
+ <tr>
+  <td> 2) cd WADOG</td>
+ </tr>
+ <tr>
+  <td> 3) pip install pipenv</td> 
+ </tr>
+ <tr>
+  <td> 4) pipenv --python 3.6</td>
+ </tr>
+ <tr>
+  <td> 5) pipenv install - r requirements.txt</td>
  </tr>
  </table>
 <hr>
