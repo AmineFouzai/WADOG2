@@ -26,7 +26,7 @@ Keystroke logging Tool (WADOG)
 <hr>
 <img src="https://github.com/MedAmineFouzai/WADOG/blob/master/Captures/Capture2.PNG">
 
-<h2>#command:=>Python WADOG.py </h2>
+<h2>#command=>[Python WADOG.py]</h2>
 <hr>
 <h1>#WARNING</h1>
 <p  style="color:red" >THIS TOOL IS MADE ONLY FOR STUDY PURPOSE ANY ABUSE OR MISUSE OF THE TOOL IM NOT A PART OF IT !!!</p>
