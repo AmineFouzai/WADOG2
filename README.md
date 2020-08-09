@@ -1,1 +1,1 @@
-<img alt="404 - Nothing Interesting Here - EP 1 — Steemit" class="n3VNCb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_FUr7KRRq9Eu8_QwritHxuCMcWQGU3KjCvQ&amp;usqp=CAU" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" style="width: 431px; height: 323.25px; margin: 0px;">
+<img src="https://steemitimages.com/0x0/https://cdn.dribbble.com/users/1129101/screenshots/3513987/404.gif">
