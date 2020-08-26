@@ -1,6 +1,6 @@
-tornado
 PyInstaller
 halo
 pynput
 websocket_client
 pyautogui
+pyngrok
