@@ -17,3 +17,24 @@
 </p>
 
 A Powerfull Trojan Tool  for generating exploitable and executable undetectable payloads on windows,capebale to work on the background silently,no virus detection,no  windows defender annoying alerts ,complete stealth execution 
+
+---------------------------------------
+
+# SETUP:
+<table>
+ <tr>
+  <td> 1) git clone https://github.com/MedAmineFouzai/WADOG2 </td> 
+ </tr>
+ <tr>
+  <td> 2) cd WADOG2</td>
+ </tr>
+ <tr>
+  <td> 3) pip install pipenv</td> 
+ </tr>
+ <tr>
+  <td> 4) pipenv --python python version</td>
+ </tr>
+ <tr>
+  <td> 5) pipenv install - r requirements.txt</td>
+ </tr>
+ </table>
