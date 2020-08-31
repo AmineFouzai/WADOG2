@@ -49,7 +49,7 @@ VirusTotal inspects items with over 70 antivirus scanners and URL/domain blackli
 
 |     Engine      |  Detection |       Engine     |  Detection  |
 |-----------------|------------|------------------|-------------|
-|SecureAge APEX   |Malicious ❌|Bkav              |Undetected ✔|
+|SecureAge APEX   |Malicious  ❌|Bkav              |Undetected ✔|
 |Acronis          |Undetected ✔|   CAT-QuickHeal  |Undetected ✔|
 |Ad-Aware         |Undetected ✔|ClamAV            |Undetected ✔|
 |AegisLab         |Undetected ✔|CMC               |Undetected ✔|
