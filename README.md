@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-<p align="center"><img align="center" src="https://github.com/MedAmineFouzai/WADOG2/blob/master/wadog.png"></p>
+<p align="center"><img align="center" src="https://github.com/MedAmineFouzai/WADOG2/blob/master/Asset_2.png"></p>
 
 <p align="center">
 
