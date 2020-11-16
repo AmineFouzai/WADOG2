@@ -37,6 +37,10 @@ A Powerfull Trojan Tool  for generating exploitable and executable undetectable 
  <tr>
   <td> 5) pipenv install - r requirements.txt</td>
  </tr>
+ <tr>
+  <td> 6) pytohn app.py</td>
+ </tr>
+    
  </table>
  
  ---------------------------------------------
